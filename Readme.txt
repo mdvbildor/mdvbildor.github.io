@@ -5,6 +5,7 @@ Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d8Z1vvTjzkQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #3395FF
 #00B9FF

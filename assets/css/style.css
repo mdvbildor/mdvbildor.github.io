@@ -1031,7 +1031,7 @@ section {
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(51, 150, 255, 0.55);
     z-index: 9;
 }
 
@@ -1697,4 +1697,21 @@ section {
     text-align: center;
     font-size: 13px;
     color: #364146;
+}
+
+
+/*  */
+
+@media (min-width: 576px) {
+    .video-demo {
+        width: 540px;
+        height: 303px;
+    }
+}
+
+@media (min-width: 768px) {
+    .video-demo {
+        width: 720px;
+        height: 393px;
+    }
 }
